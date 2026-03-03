@@ -4,6 +4,8 @@ A simple and responsive Global Weather App built with HTML, CSS, and JavaScript,
 
 This project demonstrates core web development skills, including API integration, DOM manipulation, asynchronous JavaScript, and responsive UI design — perfect for beginner to intermediate frontend developers.
 
+Live Demo: https://global-weather-app-mu.vercel.app/
+
 #📌 Features
 
 ✅ Search weather by city name
